@@ -1,0 +1,22 @@
+{
+    "name": "codicastudio/admintests",
+    "description": "A random Codica Studio package.",
+    "keywords": [
+        ""
+    ],
+    "homepage": "https://github.com/codicastudio/admintests",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael J Brown",
+            "email": "mbrown@codicastudio.com",
+            "homepage": "https://codicastudio.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NovaTesting\\": "src/"
+        }
+    }
+}
